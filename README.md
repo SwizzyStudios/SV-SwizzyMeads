@@ -1,26 +1,26 @@
 # SV-SwizzyMeads
-Stardew Valley mod to add more mead flavors based on existing honey types.
+Stardew Valley mod to add more mead flavors based on existing honey types. This was accomplished by using [Harmony](https://github.com/pardeike/Harmony) to alter the Stardew Valley base code.
 
-This mod will alter the base code for Stardew Valley to alter the Mead's name and value.  Due to the nature of the change all new mead names will be altered.  Following is the new Meads and their base value.
+New Meads
+=
+Following is the new Meads and their base values.
 
-The value was determined as honey base price * 2
-
-Wild Honey Mead (200g)
-
-Tulip Honey Mead (320g)
-
-Blue Jazz Honey Mead (400g)
-
-Summer Spangle Honey Mead (560g)
-
-Poppy Honey Mead (760g)
-
-Fairy Rose Honey Mead (1260g)
+| Honey Type | Base Value | Mead Type | Mead Base Value | Artisan Profession (40%) |
+|----------|---------:|---------|--------------:|-----------------------:|
+|Honey|100g|Mead|200g|280g|
+|Wild Honey|100g|Mead|200g|280g|
+|Tulip Honey|160g|Tulpi Mead|320g|448g|
+|Blue Jazz Honey|200g|Blue Jazz Mead|400g|560g|
+|Summer Spangle Honey|280g|Summer Spangle Mead|560g|784g|
+|Poppy Honey|380g|Poppy Mead|760g|1,064g|
+|Fairy Rose Honey|680g|Fairy Rose Mead|1,360g|1,904g|
 
 Installation steps
+=
 1. Download the mod from Nexus Mods <link>
 2. Place the SwizzyMeads folder into the Stardew Valley Mods (Steam/steamApps/common/Stardew Valley/Mods)
 3. Start up Stardew Valley through SMAPI.
 
-For more details on what Stardew Valley code was altered...
-Alters the Object.cs method "performObjectDropInAction" specifically the code around the Mead case.
+Altered Stardew Valley Code
+=
+Stardewvalley.Object.cs method "performObjectDropInAction"
