@@ -6,5 +6,5 @@
    "UniqueID": "SwizzyStudios.SwizzyMeads",
    "EntryDll": "SwizzyMeads.dll",
    "MinimumApiVersion": "2.9",
-   "UpdateKeys": [],
+   "UpdateKeys": ["Nexus:3241", "GitHub:SwizzyStudios/SV-SwizzyMeads"]
 }
