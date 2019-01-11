@@ -17,7 +17,7 @@ Following is the new Meads and their base values.
 
 Installation steps
 =
-1. Download the mod from Nexus Mods <link>
+1. Download the mod from [Nexus Mods](https://www.nexusmods.com/stardewvalley/mods/3241)
 2. Place the SwizzyMeads folder into the Stardew Valley Mods (Steam/steamApps/common/Stardew Valley/Mods)
 3. Start up Stardew Valley through SMAPI.
 
